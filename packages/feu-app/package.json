@@ -1,6 +1,6 @@
 {
   "name": "feu-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "> TODO: description",
   "author": "liangwj <wj_kyu@163.com>",
@@ -18,8 +18,8 @@
     "registry": "https://registry.npm.taobao.org"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/huabulai/lerna-usage.git"
+    "type": "git",
+    "url": "https://github.com/huabulai/lerna-usage.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
