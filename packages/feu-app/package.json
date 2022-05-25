@@ -5,7 +5,7 @@
   "description": "> TODO: description",
   "author": "liangwj <wj_kyu@163.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/feu-app.js",
   "directories": {
     "lib": "lib",
