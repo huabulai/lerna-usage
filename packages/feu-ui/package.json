@@ -1,7 +1,7 @@
 {
-  "name": "feu-ui",
+  "name": "wj-feu-ui",
   "version": "0.0.4",
-  "private": true,
+  "private": false,
   "description": "> TODO: description",
   "author": "liangwj <wj_kyu@163.com>",
   "homepage": "",
