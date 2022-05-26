@@ -1,6 +1,6 @@
 {
   "name": "wj-feu-app",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "private": false,
   "description": "> TODO: description",
   "author": "liangwj <wj_kyu@163.com>",
@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "wj-feu-tools": "^0.2.6",
-    "wj-feu-ui": "^0.2.6"
+    "wj-feu-ui": "^0.2.7"
   }
 }
