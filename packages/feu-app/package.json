@@ -25,7 +25,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "feu-tools": "^1.0.0",
-    "feu-ui": "^1.0.0"
+    "wj-feu-tools": "^0.2.0",
+    "wj-feu-ui": "^0.2.0"
   }
 }

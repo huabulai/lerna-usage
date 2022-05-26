@@ -28,6 +28,6 @@
     "chalk": "4.0.0"
   },
   "dependencies": {
-    "feu-tools": "^1.0.0"
+    "wj-feu-tools": "^0.2.0"
   }
 }
