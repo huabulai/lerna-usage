@@ -1,5 +1,5 @@
-const { min } = require('feu-tools');
-const ui = require("feu-ui");
+const { min } = require('wj-feu-tools');
+const ui = require("wj-feu-ui");
 
 function app() {
     console.log("app主入口升级");
