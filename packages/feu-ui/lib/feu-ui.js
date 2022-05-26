@@ -1,5 +1,5 @@
 const chalk = require('chalk');
-const { add } = require('feu-tools');
+const { add } = require('wj-feu-tools');
 
 function ui(result) {
     console.log("ui库，result入参:", result);
